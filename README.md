@@ -9,4 +9,12 @@
 - 📫 How to reach me:
   balisongian@gmail.com
   
+  
+ <p align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jackytank&theme=white" alt="To Minh Tri" />
+ </p>
+ <p align="center">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackytank&layout=compact&theme=white" /> 
+ </p>
+  
 
