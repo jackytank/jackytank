@@ -5,7 +5,7 @@
   + Back-end: Java EE, Spring Boot, Spring Security
   + Database: MySQL, SQL Server 2019, Azure SQL Database
   + Tools: Eclipse/STS, NetBeans, VSCode, Intellij IDEA
-- 🌱 I’m currently learning Spring Boot, ReactJS and MongoDB
+- 🌱 I’m currently learning Spring Boot, ReactJS and NEAR blockchain
 - 📫 How to reach me:
   balisongian@gmail.com
   
