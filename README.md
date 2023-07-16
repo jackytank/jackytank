@@ -5,7 +5,6 @@
   + Back-end: ExpressJS, Java EE, Spring Boot
   + Database: MySQL, SQL Server, Oracle DB, PostgreSQL
   + Application Server: JBoss/Wildfly
-  + Languages: Javascript/Typescript, Java
   + Tools: Eclipse/STS, NetBeans, VSCode, Intellij IDEA
 - 🌱 I’m currently learning Spring Boot, ReactJS
 - 📫 How to reach me:
