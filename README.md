@@ -1,7 +1,7 @@
 - 👋 Hi, I’m an Optimistic Nihilist nicknamed @jackytank
 - 👀 I’m interested in Software Engineering, Cryptocurrency, VR/AR, and a bit of physics
 - 🤹 My technical skills:
-  + Front-end: JS/TS, Bootstrap, AngularJS, jQuery, ReactJS
+  + Front-end: JS/TS, Bootstrap, AngularJS, jQuery, ReactJS, Redux Toolkit
   + Back-end: ExpressJS, Java EE, Spring Boot
   + Database: MySQL, SQL Server, Oracle DB, PostgreSQL
   + Application Server: JBoss/Wildfly
