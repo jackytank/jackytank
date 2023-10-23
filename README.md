@@ -4,8 +4,9 @@
   + Front-end: JS/TS, Bootstrap, AngularJS, jQuery, ReactJS, Redux Toolkit
   + Back-end: ExpressJS, Java EE, Spring Boot
   + Database: MySQL, SQL Server, Oracle DB, PostgreSQL
+  + Testing: JUnit, Mockito
   + Application Server: JBoss/Wildfly
-  + Tools: Eclipse/STS, NetBeans, VSCode, Intellij IDEA
+  + Tools: Eclipse/STS, NetBeans, VSCode, Intellij IDEA, PowerBI
 - 🌱 I’m currently learning Spring Boot, ReactJS
 - 📫 How to reach me:
   balisongian@gmail.com
