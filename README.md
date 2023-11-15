@@ -7,7 +7,7 @@
   + __Testing__: JUnit, Mockito
   + __Application Server__: JBoss/Wildfly
   + __Tools__: Git, PowerBI
-- 🌱 I’m currently learning ReactJS, Docker
+- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me:
   [balisongian@gmail.com](mailto:balisongian@gmail.com)
   
