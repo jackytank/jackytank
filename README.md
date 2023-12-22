@@ -1,13 +1,17 @@
 - 👋 Hi, I’m an Optimistic Nihilist nicknamed @jackytank
 - 👀 I’m interested in Software Engineering, Cryptocurrency, and a bit of physics
 - 🤹 My technical skills:
-  + __Front-end__: Bootstrap, AngularJS, jQuery, ReactJS, Redux Toolkit, Ant Design, SCSS
-  + __Back-end__: ExpressJS, Servlet/JSP, Spring Boot
-  + __Database__: MySQL, SQL Server, Oracle DB, PostgreSQL
-  + __Testing__: JUnit, Mockito
-  + __Application Server__: JBoss/Wildfly
-  + __Tools__: Git, PowerBI
-- 🌱 I’m currently learning ReactJS
+    - Front-end: Bootstrap, AngularJS, ReactJS,
+    jQuery, Redux Toolkit, Ant Design, SCSS,
+    Styled Components
+    - Back-end: Servlet/JSP, Spring Boot, NodeJS
+    (ExpressJS)
+    - Database: MySQL, SQL Server, OracleDB,
+    PostgreSQL, MongoDB, Redis
+    - Testing: JUnit, Mockito
+    - Tools: Git, PowerBI
+    - Language: Java, JavaScript, TypeScript
+- 🌱 I’m currently learning Redis, MongoDB
 - 📫 How to reach me:
   [balisongian@gmail.com](mailto:balisongian@gmail.com)
   
