@@ -7,11 +7,11 @@
     - Back-end: Servlet/JSP, Spring Boot, NodeJS
     (ExpressJS)
     - Database: MySQL, SQL Server, OracleDB,
-    PostgreSQL, MongoDB, Redis
+    PostgreSQL, Redis
     - Testing: JUnit, Mockito
     - Tools: Git, PowerBI
     - Language: Java, JavaScript, TypeScript
-- 🌱 I’m currently learning Redis, MongoDB
+- 🌱 I’m currently learning Redis
 - 📫 How to reach me:
   [balisongian@gmail.com](mailto:balisongian@gmail.com)
   
