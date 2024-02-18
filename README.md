@@ -11,7 +11,6 @@
     - Testing: JUnit, Mockito
     - Tools: Git, PowerBI
     - Language: Java, JavaScript, TypeScript
-- 🌱 I’m currently learning Redis
 - 📫 How to reach me:
   [balisongian@gmail.com](mailto:balisongian@gmail.com)
   
