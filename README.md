@@ -1,7 +1,16 @@
-- 👋 Hi, I’m an Earthling dude
-- 👀 I’m interested in Software Engineering, Cryptocurrency, and a bit of physics
-- 📫 How to reach me:
-  [balisongian@gmail.com](mailto:balisongian@gmail.com)
+```java
+package github.com.jt;
+
+public class AboutMe {
+    
+    public static void main(String[] args) {
+        System.out.println("👋 Hi, I’m an Earthling dude");
+        System.out.println("👀 I’m interested in Software Engineering, Cryptocurrency, and a bit of physics");
+        System.out.println("📫 How to reach me: balisongian@gmail.com");
+    }
+}
+```
+
   
  <br>
  <br>
