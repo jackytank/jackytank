@@ -1,5 +1,5 @@
 ```java
-package github.com.jt;
+package com.github.profile.jt;
 
 public class AboutMe {
     
