@@ -21,6 +21,3 @@ public class AboutMe {
  <p align="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackytank&layout=compact&theme=white" /> 
  </p>
- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jackytank&label=Profile%20views&color=0e75b6&style=flat" alt="jackytank" /> 
- </p>
